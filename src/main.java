@@ -3,5 +3,6 @@ public class main {
         System.out.println("Master");
         System.out.println("new branch");
         System.out.println("test ");
+        System.out.println("New line in Master ");
     }
 }
