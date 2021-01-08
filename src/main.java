@@ -4,5 +4,6 @@ public class main {
         System.out.println("new branch");
         System.out.println("test ");
         System.out.println("New line in Master ");
+        System.out.println("We are working in java  main class");
     }
 }
